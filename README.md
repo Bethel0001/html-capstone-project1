@@ -1,1 +1,1 @@
-# html-capstone-project1
+# html-capstone-online-resume
